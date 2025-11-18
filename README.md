@@ -14,14 +14,14 @@ Skrypt działa zarówno w CLI, jak i w przeglądarce.
 ### 1. Klonowanie z GitHuba (zalecane)
 
 ```bash
-git clone https://github.com/rgzyl/KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2.git
-cd KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2
+git clone https://github.com/rgzyl/KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2-.git
+cd KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2-
 ```
 
 ### 2. Pobranie ZIP z GitHuba
 
 1. Wejdź:
-   [https://github.com/rgzyl/KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2](https://github.com/rgzyl/KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2)
+   [https://github.com/rgzyl/KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2-](https://github.com/rgzyl/KSeF-PHP-Autoryzacja-XAdES-i-pobieranie-tokenu-API-v2-)
 2. Kliknij zielony przycisk **Code**.
 3. Wybierz **Download ZIP**.
 4. Wypakuj paczkę na serwerze lub lokalnie.
